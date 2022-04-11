@@ -1,0 +1,12 @@
+{
+  "name": "js-building-final-portal",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
