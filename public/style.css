@@ -1,13 +1,13 @@
 #map {
-    height: 800px;
-    border: darkblue;
+    height: 900px;
+    border: rgb(104, 36, 5);
     border-style: double;
 }
 
 #business {
-    color: darkblue;
+    color: rgb(107, 12, 233);
 }
 
 body {
-    background-color: rgb(150, 167, 168);
+    background-color: rgb(158, 158, 168);
 }
